@@ -10,6 +10,9 @@ public class SolarSystem {
         fs.color="yellow";
         fs.radius="141515156";
         fs.temp="1234124124151524k";
+        Planet2 p2=new Planet2();
+        p2.color="black";
+        p2.size="12412414";
 
     }
 }
